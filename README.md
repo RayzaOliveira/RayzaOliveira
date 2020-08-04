@@ -13,7 +13,7 @@
 
 <p>A passionate  Software Developement Student 🚀 having an experience of building Web  with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks.😄</p>
 
-<p align="center">📫 How to contact me: rayza.ocr@gmail.com</p>
+<p align="center">📫 <a href="mailto:rayza.ocr@gmail.com">rayza.ocr@gmail.com</a></p>
 
 
 
