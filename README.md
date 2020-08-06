@@ -18,11 +18,11 @@
 
 
 <div style="display:flex; justify-content:space-around;margin:32px 0;">
-<img  style="width:48px;" src="https://firebasestorage.googleapis.com/v0/b/resume-7d906.appspot.com/o/200px-HTML5_logo_and_wordmark.svg.png?alt=media&token=5b5b847e-0215-4208-b881-3e197461bcf6" alt="html"/>
-<img  style="width:32px;" src="https://firebasestorage.googleapis.com/v0/b/resume-7d906.appspot.com/o/1200px-CSS.3.svg.png?alt=media&token=56014168-0a14-4486-8914-c1a09fb31a20" alt="css"/>
-<img  style="width:32px;" src="https://firebasestorage.googleapis.com/v0/b/resume-7d906.appspot.com/o/javascript-logo-E967E87D74-seeklogo.com.png?alt=media&token=81e846f0-6ab1-4731-96e8-f82d7a7964cb" alt="js"/>
-<img  style="width:56px;" src="https://firebasestorage.googleapis.com/v0/b/resume-7d906.appspot.com/o/640px-React-icon.svg.png?alt=media&token=623e2596-ac88-4384-8e89-0858eb0c8d1a" alt="react"/>
-<img  style="width:42px;" src="https://firebasestorage.googleapis.com/v0/b/resume-7d906.appspot.com/o/nodejs-image.png?alt=media&token=9395f363-968a-4627-b675-1166408b5bf2" alt="nodejs"/>
+<img  width="48" src="https://firebasestorage.googleapis.com/v0/b/resume-7d906.appspot.com/o/200px-HTML5_logo_and_wordmark.svg.png?alt=media&token=5b5b847e-0215-4208-b881-3e197461bcf6" alt="html"/>
+<img  width="32" src="https://firebasestorage.googleapis.com/v0/b/resume-7d906.appspot.com/o/1200px-CSS.3.svg.png?alt=media&token=56014168-0a14-4486-8914-c1a09fb31a20" alt="css"/>
+<img  width="32" src="https://firebasestorage.googleapis.com/v0/b/resume-7d906.appspot.com/o/javascript-logo-E967E87D74-seeklogo.com.png?alt=media&token=81e846f0-6ab1-4731-96e8-f82d7a7964cb" alt="js"/>
+<img  width="56" src="https://firebasestorage.googleapis.com/v0/b/resume-7d906.appspot.com/o/640px-React-icon.svg.png?alt=media&token=623e2596-ac88-4384-8e89-0858eb0c8d1a" alt="react"/>
+<img  width="42" src="https://firebasestorage.googleapis.com/v0/b/resume-7d906.appspot.com/o/nodejs-image.png?alt=media&token=9395f363-968a-4627-b675-1166408b5bf2" alt="nodejs"/>
 </div>
 
 
