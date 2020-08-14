@@ -8,10 +8,11 @@
 
 <div align="center">
 
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rayza.ocr@gmail.com)](mailto:rayza.ocr@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@oliveirarayza-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/oliveirarayza/?hl=pt-br)](https://www.instagram.com/oliveirarayza/?hl=pt-br)
-[![Github Badge](https://img.shields.io/badge/-rayzaoliveira-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rayzaoliveira)](https://github.com/rayzaoliveira)
+[![Gmail Badge](https://img.shields.io/badge/-rayza.ocr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rayza.ocr@gmail.com)](mailto:rayza.ocr@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@oliveirarayza-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/oliveirarayza/?hl=pt-br)](https://www.instagram.com/oliveirarayza/?hl=pt-br) 
 [![Linkedin Badge](https://img.shields.io/badge/-rayzaoliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayza-oliveira-costa-482658129/)](https://www.linkedin.com/in/rayza-oliveira-costa-482658129/)
+[![Rocketseat Badge](https://img.shields.io/badge/-rocketseat-000?style=flat-square&logo=&logoColor=white&link=https:https://app.rocketseat.com.br/me/rayzaoliveira)](https://app.rocketseat.com.br/me/rayzaoliveira)
+
 
 </div>
 
