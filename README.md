@@ -30,5 +30,9 @@
 <p align="center">
 <a href="https://firebasestorage.googleapis.com/v0/b/resume-7d906.appspot.com/o/Curriculo%20em%20ingles%20sem%20telefone.pdf?alt=media&token=9ccf0c71-7829-4c45-acba-ea4af96acfcc" target="_blank">
 <img src="https://img.shields.io/badge/📥-RESUME-purple"/>
+</a> <a href="https://visitor-badge.glitch.me/badge?page_id=RayzaOliveira.RayzaOliveira" target="_blank">
+<img src="https://visitor-badge.glitch.me/badge?page_id=RayzaOliveira.RayzaOliveira"/>
 </a>
 </p>
+
+
