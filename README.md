@@ -1,5 +1,5 @@
 <h3 align="center">Hi all I'm Rayza 👋</h3>
-<p align="center">A passionate  Front-End Developement 🚀</p>
+<p align="center">A passionate Front-End Development 🚀</p>
 
 
 <p align="center">
