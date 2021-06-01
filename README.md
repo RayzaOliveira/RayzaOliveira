@@ -35,4 +35,5 @@
 </a>
 </p>
 
+ ![Snake animation](https://github.com/RayzaOliveira/RayzaOliveira/blob/output/github-contribution-grid-snake.svg
 
