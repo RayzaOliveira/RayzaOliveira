@@ -1,5 +1,5 @@
 <h3 align="center">Hi all I'm Rayza 👋</h3>
-<p align="center">A passionate Front-End Development 🚀</p>
+<p align="center">🌟👩‍💻 Passionate about the colorful world of Front-End Development! Here, every line of code is a brushstroke on the web's canvas. Fascinated by turning ideas into digital reality, I live at the crossroads of creativity and technology. 💻✨ I love exploring new tech, tackling coding challenges, and sharing my discoveries. 🚀🌈</p>
 
 <!-- <p align="center">
 <img src="https://camo.githubusercontent.com/cdbee60d64689371b2b2f9438037116e9fe7ee74/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966" alt="Animação"/>
